@@ -1,0 +1,13 @@
+.container {
+  margin: 1rem;
+}
+
+.input {
+  width: 25rem;
+  height: 3rem;
+  font-size: 2rem;
+}
+
+.input:focus {
+  outline: 0;
+}

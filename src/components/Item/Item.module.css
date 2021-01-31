@@ -1,0 +1,27 @@
+.toDo {
+  padding: 0.2rem;
+  font-size: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.yesCompleted {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.noCompleted {
+  color: black;
+}
+
+.button {
+  all: unset;
+  box-shadow: 0.1rem 0.1rem 0.1rem gray;
+  font-size: 1rem;
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: wheat;
+}
